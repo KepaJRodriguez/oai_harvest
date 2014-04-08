@@ -1,4 +1,4 @@
 oai_harvest
 ===========
 
-Simple OAI2 metadate harvester
+Simple OAI2 metadata harvester
